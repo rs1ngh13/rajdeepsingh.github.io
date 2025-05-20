@@ -57,12 +57,12 @@ education:
   - degree: Master of Science in Data Science
     university: Boston University College of Computing and Data Science, Boston, MA
     time: September 2024 - May 2025
-    details: GPA: 3.85/4.00; Dean’s Circle
+    details: "GPA: 3.85/4.00; Dean’s Circle"
 
   - degree: Bachelor of Science in Neuroscience
     university: Boston University College of Arts and Sciences, Boston, MA
     time: January 2021 - May 2024
-    details: GPA: 3.57/4.00; Dean’s Circle
+    details: "GPA: 3.57/4.00; Dean’s Circle"
 
 experiences:
   title: Experiences
