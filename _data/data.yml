@@ -71,18 +71,17 @@ experiences:
     time: December 2023 – May 2024
     company: Computational Neuroscience and Vision Lab, Boston, MA
     details: |
-      Conducted a computational neuroscience project analyzing the impact of multiple sclerosis on neural signaling.
-      Reviewed schizophrenia literature focusing on visual and cognitive processing.
-      Co-authored a manuscript addressing perception impairments in schizophrenia.
+      Conducted a computational neuroscience project analyzing the impact of multiple sclerosis on neural signaling, focusing on transmission speed and size differences between healthy and affected neurons.
+      Researched schizophrenia literature, examining its effects on brain function and vision across temporal/spatial scales.
+      Collaborated with team members on a review paper, refining a manuscript that explores the complexities of schizophrenia’s impact on visual perception.
 
   - role: Research Intern
     time: March 2024 – May 2025
     company: Kolachalama Lab, Boston University School of Medicine
     details: |
-      Worked on deep learning models for biomedical imaging analysis in Alzheimer's and cardiovascular diseases.
-      Preprocessed MRI and histology datasets and designed 3D CNN architectures using PyTorch.
-      Contributed to publications by developing model explainability tools for clinical interpretation.
-
+      Served as a Research Assistant using MRI scans and computer vision to identify brain regions associated with Alzheimer’s in individuals with Mild Cognitive Impairment (MCI).
+      Gained hands-on experience in PyTorch for training neural networks and developed foundational knowledge in MRI processing for neurodegenerative research.
+      Enhanced analytical skills with an introductory understanding of graph theory, successfully acquiring core competencies in machine learning and computational neuroscience despite project termination.
 
 projects:
   title: Projects
