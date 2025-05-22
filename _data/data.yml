@@ -92,7 +92,7 @@ projects:
   - title: Equity Analysis in Congressionally Directed Spending (CDS)
     link: "https://github.com/BU-Spark/ds-sen-markey-earmarks/tree/main/fa24-team-a"
     tagline: >
-      Led a 4-member team to analyze equity in federal earmark funding for Senator Ed Markey’s Office. Built data pipelines in Python and Looker Studio to identify racial, income, and geographic disparities in funding access. Delivered interactive dashboards and policy recommendations.
+      Led a 4-member team to analyze equity in federal earmark funding for Senator Ed Markey’s Office. Built data pipelines in Python and Looker Studio to identify racial, income, and geographic disparities in funding access. Delivered interactive <a href="https://lookerstudio.google.com/u/0/reporting/881a80ac-d734-40fe-9650-fb353ba7b146/page/p_ik3fogfpgd" target="_blank">dashboard</a> and policy recommendations.
 
   - title: Alzheimer’s Disease Detection with 3D MRI and CNNs
     link: "https://github.com/John3019/DS542-CNN-A"
