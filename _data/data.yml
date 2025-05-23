@@ -108,7 +108,7 @@ projects:
 skills:
   title: Skills & Proficiency
   toolset:
-  - name: Python, R, SQL, Bash
+  - name: Python, R, SQL
     level: 95%
   - name: PyTorch, TensorFlow, Scikit-learn
     level: 90%
