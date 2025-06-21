@@ -89,6 +89,11 @@ projects:
     Selected machine learning and analytics projects developed during academic coursework and research appointments.
 
   assignments:
+  - title: Credit Card Fraud Detection Pipeline
+    link: "https://github.com/rs1ngh13/Credit-Card-Fraud-Detection-Pipeline"
+    tagline: >
+      Real-Time Credit Card Fraud Detection Pipeline – Built an end-to-end fraud detection system using Azure Event Hubs, Databricks, and Synapse Analytics. Simulated streaming transactions and applied z-score-based anomaly detection with location- and merchant-specific risk scoring. Stored flagged results in Synapse and visualized fraud trends in [Tableau](https://us-east-1.online.tableau.com/#/site/rajdeepsingh9613-60cc67e78b/views/CreditCardFraudDetectionProject/CreditCardFraudDetectionDashboard?:iid=1) via KPIs, maps, and time-based charts.
+      
   - title: Equity Analysis in Congressionally Directed Spending (CDS)
     link: "https://github.com/BU-Spark/ds-sen-markey-earmarks/tree/main/fa24-team-a"
     tagline: >
